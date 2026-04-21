@@ -5,7 +5,7 @@ to evaluate the accuracy of the three classifiers `classifier_[123].py`.
 
 The file `truth.csv` contains a list of pairs
 `region,classification` representing a genomic region and its
-classification as `B (binign) / P (pathogenic)`.
+classification as `B (benign) / P (pathogenic)`.
 Consider this file as the **ground truth** to compare the different classifiers.
 
 Consider the following points, when writing the pipeline:
